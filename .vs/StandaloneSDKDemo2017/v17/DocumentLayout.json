@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|f:\\netframeworkzktecoattlogsdemo-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|F:\\NetFrameworkZKTecoAttLogsDemo-master\\helper\\udiskstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|solutionrelative:helper\\udiskstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|F:\\NetFrameworkZKTecoAttLogsDemo-master\\helper\\udisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|solutionrelative:helper\\udisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|F:\\NetFrameworkZKTecoAttLogsDemo-master\\helper\\searchforusbcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|solutionrelative:helper\\searchforusbcom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|F:\\NetFrameworkZKTecoAttLogsDemo-master\\helper\\sdkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|solutionrelative:helper\\sdkhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|F:\\NetFrameworkZKTecoAttLogsDemo-master\\helper\\raw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|solutionrelative:helper\\raw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|F:\\NetFrameworkZKTecoAttLogsDemo-master\\helper\\punches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18AF2E37-B203-400B-8188-606899C00933}|StandaloneSDKDemo.csproj|solutionrelative:helper\\punches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:33.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UDiskStruct.cs",
+              "DocumentMoniker": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\UDiskStruct.cs",
+              "RelativeDocumentMoniker": "Helper\\UDiskStruct.cs",
+              "ToolTip": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\UDiskStruct.cs",
+              "RelativeToolTip": "Helper\\UDiskStruct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:13.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UDisk.cs",
+              "DocumentMoniker": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\UDisk.cs",
+              "RelativeDocumentMoniker": "Helper\\UDisk.cs",
+              "ToolTip": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\UDisk.cs",
+              "RelativeToolTip": "Helper\\UDisk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:10.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SearchforUSBCom.cs",
+              "DocumentMoniker": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\SearchforUSBCom.cs",
+              "RelativeDocumentMoniker": "Helper\\SearchforUSBCom.cs",
+              "ToolTip": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\SearchforUSBCom.cs",
+              "RelativeToolTip": "Helper\\SearchforUSBCom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:08.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SDKHelper.cs",
+              "DocumentMoniker": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\SDKHelper.cs",
+              "RelativeDocumentMoniker": "Helper\\SDKHelper.cs",
+              "ToolTip": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\SDKHelper.cs",
+              "RelativeToolTip": "Helper\\SDKHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:06.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Raw.cs",
+              "DocumentMoniker": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\Raw.cs",
+              "RelativeDocumentMoniker": "Helper\\Raw.cs",
+              "ToolTip": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\Raw.cs",
+              "RelativeToolTip": "Helper\\Raw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:05.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Punches.cs",
+              "DocumentMoniker": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\Punches.cs",
+              "RelativeDocumentMoniker": "Helper\\Punches.cs",
+              "ToolTip": "F:\\NetFrameworkZKTecoAttLogsDemo-master\\Helper\\Punches.cs",
+              "RelativeToolTip": "Helper\\Punches.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T06:00:02.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
